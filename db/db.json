@@ -1,0 +1,156 @@
+{
+  "depletingInventory": [
+    {
+      "item_code": "10444",
+      "item_name": "krinara Sauce",
+      "item_category": "Sauces",
+      "uom": "ea",
+      "Opening_Inventory": "1000",
+      "Closing_Inventory": "1000",
+      "Stock_Issue": "1000",
+      "Stock_Consumed": "1000",
+      "Variance_Value": "1000",
+      "Variance": "1000"
+    },
+    {
+      "item_code": "10444",
+      "item_name": "grinara Sauce",
+      "item_category": "Sauces",
+      "uom": "ea",
+      "Opening_Inventory": "1000",
+      "Closing_Inventory": "1000",
+      "Stock_Issue": "1000",
+      "Stock_Consumed": "1000",
+      "Variance_Value": "1000",
+      "Variance": "1000"
+    }
+  ],
+  "variancereport2": [
+    {
+      "location":"islamabad",
+      "item_code": "20111",
+      "item_name": "xarinara Sauce",
+      "item_category": "Sauces",
+      "uom": "ea",
+      "Opening_Inventory": "1000",
+      "Closing_Inventory": "1000",
+      "Stock_Issue": "1000",
+      "Stock_Consumed": "1000",
+      "Variance_Value": "1000",
+      "Variance": "1000"
+    },
+    {
+      "location":"murree",
+      "item_code": "10222",
+      "item_name": "karinara Sauce",
+      "item_category": "Sauces",
+      "uom": "ea",
+      "Opening_Inventory": "1000",
+      "Closing_Inventory": "1000",
+      "Stock_Issue": "1000",
+      "Stock_Consumed": "1000",
+      "Variance_Value": "1000",
+      "Variance": "1000"
+    },
+    {
+      "location":"murree",
+      "item_code": "10333",
+      "item_name": "darinara Sauce",
+      "item_category": "Sauces",
+      "uom": "ea",
+      "Opening_Inventory": "1000",
+      "Closing_Inventory": "1000",
+      "Stock_Issue": "1000",
+      "Stock_Consumed": "1000",
+      "Variance_Value": "1000",
+      "Variance": "1000"
+    },
+    {
+      "location":"thandiyani",
+      "item_code": "10444",
+      "item_name": "arinara Sauce",
+      "item_category": "Sauces",
+      "uom": "ea",
+      "Opening_Inventory": "1000",
+      "Closing_Inventory": "1000",
+      "Stock_Issue": "1000",
+      "Stock_Consumed": "1000",
+      "Variance_Value": "1000",
+      "Variance": "1000"
+    },
+    {
+      "location":"islamabad",
+      "item_code": "10555",
+      "item_name": "marinara Sauce",
+      "item_category": "Sauces",
+      "uom": "ea",
+      "Opening_Inventory": "1000",
+      "Closing_Inventory": "1000",
+      "Stock_Issue": "1000",
+      "Stock_Consumed": "1000",
+      "Variance_Value": "1000",
+      "Variance": "1000"
+    }
+  ],
+  "posts": [
+    {
+      "code": "2",
+      "name": "2",
+      "stock": "2",
+      "product": "2",
+      "unit": "1",
+      "date": "2222-02-22",
+      "id": 2
+    },
+    {
+      "code": "3",
+      "name": "3",
+      "stock": "3",
+      "product": "3",
+      "unit": "1",
+      "date": "0333-03-31",
+      "id": 3
+    },
+    {
+      "code": "4",
+      "name": "4",
+      "stock": "4",
+      "product": "4",
+      "unit": "1",
+      "date": "4444-04-04",
+      "id": 4
+    },
+    {
+      "code": "5",
+      "name": "5",
+      "stock": "5",
+      "product": "5",
+      "unit": "1",
+      "date": "5555-05-05",
+      "id": 5
+    }
+  ],
+  "demandsupply": [
+    {
+      "sr": "1",
+      "Grocery": "111",
+      "Uom": "11",
+      "Balance": "11",
+      "Demand": "111"
+    },
+    {
+      "sr": "1",
+      "Grocery": "111",
+      "Uom": "11",
+      "Balance": "11",
+      "Demand": "111"
+    },
+    {
+      "sr": "1",
+      "Grocery": "111",
+      "Uom": "11",
+      "Balance": "11",
+      "Demand": "111"
+    }
+  ]
+}

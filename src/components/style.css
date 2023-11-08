@@ -1,0 +1,87 @@
+.item_code_table thead tr td,
+.item_code_table thead tr th
+{
+  border:none;
+  text-align: center;
+
+}
+
+.item_code_table th {
+  font-size: 1rem;
+  font-size: clamp(1vh,0.8rem,1vw);
+  background-color: #e6e6e6 !important;
+  
+}
+.tbody td{ 
+  font-size: 0.9rem;
+  font-size: clamp(0.9vh,0.5rem,0.9vw);
+}
+
+.data_display_table{
+background-color: rgb(219, 214, 214) !important;
+font-size: 0.8rem !important;
+font-size: clamp(0.8vh,0.6rem,0.8vw);
+color: black !important;
+font-weight: semibold !important;
+}
+.data_table td{
+  font-size: 0.8rem;
+  font-size: clamp(0.5vh,0.8rem,0.9vw);
+  color: rgb(207, 205, 205)!important;
+}
+.buttons_menu_display button{
+
+  background-color: white !important;
+  font-size: 0.9rem !important;
+  font-size: clamp(0.5vh,0.9rem,1.5vw);
+  color: black !important;
+  margin-inline: 4px;
+  border-color: black !important;
+  
+}
+.option_bar{
+  font-size: 0.9rem !important;
+  color: lightgray !important;
+}
+.data_display_table1{
+  font-size: 1rem !important;
+  font-size: clamp(1vh,0.6rem,1vw);
+  background-color: white ;
+  color: blue !important;
+  text-align: left!important;
+}
+.card_color{
+ 
+  background-color: rgb(209, 209, 209);
+}
+
+.bd_green_vr{
+  background-color: #32B54C !important;
+  color: white !important;
+  border: none;
+  margin-left: 8px;
+  margin-right: 8px;
+  height: 40px;
+  width: 110px;
+  text-align: right;
+  
+}
+.bd_orange_vr{
+  background-color: #FE9114 !important;
+  color: #ffffff !important;
+  border: none;
+  height: 40px;
+  width: 110px;
+  text-align: right;
+}
+.bd_green_vr p{
+  margin-bottom: 3px;
+}
+.bd_orange_vr p{
+  margin-bottom: 3px;
+}
+.ds_size h4, .ds_size h6{
+  font-size: 1.5rem;
+  font-size: clamp(0.5vh,1.5rem,1.9vw);
+  font-weight: semibold !important;
+}
